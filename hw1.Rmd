@@ -1,0 +1,22 @@
+---
+title: "Homework 1"
+author: "Connor Hergenreter"
+date: "January 22, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What is data science?
+
+Data science is the practice of collecting information and drawing useful inferences from it. What is gathered can be used to predict what may happen in the future or find overlooked trends. Being able to see what can possibly happen in the future is the main goal of data science. *Properly communicating* findings is key.
+
+## The data science life cycle
+
+Image thanks to Berkley data science department
+
+![](https://cdn3.datascience.berkeley.edu/content/0be56de3069740669fe2d696fb60220e/DataScienceLifeCycle.jpg)
+
+
