@@ -1,0 +1,12 @@
+---
+title: "partner"
+author: "Danny Nguyen"
+date: "January 24, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Connor Hergenreter chergenreter
+Homework 1 commit 7309506102cea6ab29773907c31262e519df505b
