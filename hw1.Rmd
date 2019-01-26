@@ -19,4 +19,8 @@ Image thanks to Berkley data science department
 
 ![](https://cdn3.datascience.berkeley.edu/content/0be56de3069740669fe2d696fb60220e/DataScienceLifeCycle.jpg)
 
+## Version Info
 
+```{r echo = FALSE}
+version
+```
